@@ -1,0 +1,14 @@
+<link rel="shortcut icon" href="https://www.apple.com/favicon.ico"/>
+apple
+
+<link rel="shortcut icon" href="https://www.delta.com/favicon.ico"/>
+delta
+
+<link rel="icon" href="https://www.fcps.net/cms/lib/KY01807169/Centricity/Domain/4/favicon.ico" type="image/x-icon">
+fcps
+
+<link href="//www.google.com/images/branding/product/ico/googleg_alldp.ico" rel="shortcut icon" type="image/x-icon">
+google
+
+<link rel="shortcut icon" href="https://www.google.com/favicon.ico"/>
+google
